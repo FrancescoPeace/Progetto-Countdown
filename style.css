@@ -1,0 +1,129 @@
+p {
+    text-align: center;
+    font-size: 85px;
+    margin-top: 150px;
+    color: white;
+    font-family: 'Qahiri', sans-serif;
+    
+                                                
+  }
+
+      /* SFONDO NEVE */
+      #snow {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        z-index: 1000;
+    }
+      
+
+  #image {
+      margin-top: -66.5px;
+  }
+
+  
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Mountains of Christmas', cursive;
+    color: yellowgreen;
+    margin-top: none;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 100px;
+    font-family: 'Mountains of Christmas', cursive;
+    color: yellowgreen;
+    
+}
+
+
+
+ .text-center {
+text-align: center;
+
+}
+#btn{
+font-size: 20px;
+color: #fff;
+background:green;
+padding: 13px 18px;
+border-color: #080800;
+}  
+
+/* textarea */
+textarea{
+    height: 500px;
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background:white;
+    font-size: 45px;
+    margin-left: 210px;
+    margin-top: 1px;;
+    
+   
+
+}
+h2{
+    text-align:center;
+    font-size: 60px;
+    font-family: 'Mountains of Christmas', cursive;
+    color: red
+}
+#image2{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn2{
+    background-color: green;
+    color: white;
+    border: black;
+    text-align: center;
+    font-family: 'Mountains of Christmas', cursive;
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 25px;
+    
+    
+    
+    /* METTERE UTILITA' */
+}
+
+#message {
+    background: transparent;
+    border: none;
+    outline: none;
+   font-size:x-large;
+   font-family: 'Mountains of Christmas', cursive;
+   color:black;
+   
+  
+}
+
+body{
+    background-repeat: no-repeat;
+    
+}
+#image{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#text{
+    text-align: center;
+    
+    font-family:'Mountains of Christmas', cursive; ;
+    font-size: x-large;
+    color: red;
+}
+
